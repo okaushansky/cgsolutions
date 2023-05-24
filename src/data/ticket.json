@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "name": "Ticket 1",
+        "description": "Ticket 1 description",
+        "price": 100,
+        "destination_ids": [   
+            "1",
+            "5"
+        ],
+        "baggage_ids": [   
+            ""
+        ]
+    }
+]
